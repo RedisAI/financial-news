@@ -7,6 +7,6 @@ services:
       - ./data/300_stock_headlines.csv:/home/jovyan/data/300_stock_headlines.csv
       - ./GettingStarted.ipynb:/home/jovyan/GettingStarted.ipynb
   vecsim:
-    image: redislabs/redisearch:2.4.0
+    image: redislabs/redisearch:2.4.2
     ports:
       - "6379:6379"
