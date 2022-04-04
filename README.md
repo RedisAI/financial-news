@@ -19,10 +19,12 @@ docker-compose up
 Monitor the logs 
 
 Look out for the link to launch jupyter on your local machine
+Open a browser to this link
 
 ![Check the link at the bottom of the screen](./data/screenshot.png)
 
-Open a browser to this link
+Then open the "GettingStarted" notebook
+
 
 ![Open Getting Started Notebook](./data/screenshot2.png)
 
