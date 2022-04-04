@@ -16,9 +16,13 @@ docker-compose up
 **NOTE**: The first time you run the above command, it will take 5-10 minutes (depending on your network)
 
 # Launch the Jupyter Notebook
-Monitor the logs and look out for the link to launch jupyter on your local machine
+Monitor the logs 
+
+Look out for the link to launch jupyter on your local machine
 
 Open a browser to this link
+
+Open Getting Started Notebook 
 
 Run All Cells and check the outputs
 
