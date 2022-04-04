@@ -20,9 +20,11 @@ Monitor the logs
 
 Look out for the link to launch jupyter on your local machine
 
+![Check the link at the bottom of the screen](./data/screenshot.png)
+
 Open a browser to this link
 
-Open Getting Started Notebook 
+![Open Getting Started Notebook](./data/screenshot2.png)
 
 Run All Cells and check the outputs
 
